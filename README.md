@@ -13,6 +13,6 @@ Contents:
 5. CNN_model_for_occupany.ipynb - Notebook that uses transfer learning to train a CNN model
 
 **Output**
-![alt text](https://drive.google.com/file/d/1a9gosjr51Zt_eIS3Na2DnffSyt0GEVMO/view?usp=sharing)
+![alt text](https://github.com/teja0508/Parking_Spot_detection/blob/master/1.PNG)
 
 
